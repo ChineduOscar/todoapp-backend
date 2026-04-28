@@ -21,7 +21,7 @@ async function start(){
         console.log('Your database is running')
 
         app.listen(PORT, ()=>{
-            console.log(`Server is listening on port ${PORT}`)
+            console.log(`My Server is listening on port ${PORT}`)
         })
 
     }
